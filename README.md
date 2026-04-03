@@ -24,7 +24,7 @@ The project focuses on:
 
 ## Files Included
 - `SadaX_Project_data goverance.pdf`
-- `Sadax_DataDictionary.sql` (if included)
+
 
 ## Team Members
 - Asaeyl Mamun Wali
